@@ -5,3 +5,8 @@ export const loginUser = (email) => ({
   type: LOGIN,
   email,
 });
+
+export const currentCurrency = (currency) => ({
+  type: 'CURRENCY',
+  currency,
+});
