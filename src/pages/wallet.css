@@ -1,0 +1,8 @@
+.wallet {
+  border: 1px solid black;
+  display: flex;
+}
+
+p {
+  padding-right: 10px;
+}
