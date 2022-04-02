@@ -39,7 +39,6 @@ class Wallet extends React.Component {
       tag: '',
       description: '',
     });
-    // chamar a função que altera o valor total
   }
 
   totalValue = () => {
@@ -135,7 +134,6 @@ class Wallet extends React.Component {
           >
             Adicionar despesa
           </button>
-          <button type="button" onClick={ this.totalValue }>teste</button>
         </form>
       </main>);
   }
