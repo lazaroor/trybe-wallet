@@ -17,3 +17,7 @@ form {
 form label , form input {
   margin-left: 10px;
 }
+
+th , td {
+  padding-left: 20px;
+}
